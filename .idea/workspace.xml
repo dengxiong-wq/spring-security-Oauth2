@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d4e50ad-b795-479e-8c4d-73054fc03532" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="oauth2: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="oauth2_resource: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-security-Oauth2-program" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/maven3.6" />
+        <option name="userSettingsFile" value="D:\software\maven3.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YjOx2SBK6taGOUeB5gs5h6WtOu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql.8&#10;mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/spring-security-Ouath2-server/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.345977" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\spring-security-Oauth2-program\spring-security-Ouath2-server\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tk.mybatis.mapper" />
+      <recent name="cn.tedu.oauth2.server.service" />
+      <recent name="cn.tedu.oauth2.server.mapper" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.tedu.oauth2.server.config.CreatTableDomain" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Oauth2ServerApplication">
+    <configuration name="PasswordEncoderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.PasswordEncoderTest" />
+      <module name="spring-security-Ouath2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonMapperTest.testUpdateBirthByUserIdAndUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-Ouath2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.oauth2.server.config.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.oauth2.server.config.mapper" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.oauth2.server.config.mapper.PersonMapperTest" />
+      <option name="METHOD_NAME" value="testUpdateBirthByUserIdAndUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2ResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-security-oauth2-resource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.oauth2.resource.OAuth2ResourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oauth2ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-Ouath2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.Oauth2ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Oauth2ServerApplication" />
+        <item itemvalue="JUnit.PersonMapperTest.testUpdateBirthByUserIdAndUserName" />
+        <item itemvalue="Application.PasswordEncoderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:oauth2@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:oauth2@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@2e64fc0" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d4e50ad-b795-479e-8c4d-73054fc03532" name="Default Changelist" comment="" />
+      <created>1583452779193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583452779193</updated>
+      <workItem from="1583452782911" duration="2857000" />
+      <workItem from="1583467246087" duration="7825000" />
+      <workItem from="1583475629369" duration="19000" />
+      <workItem from="1583478704198" duration="11954000" />
+      <workItem from="1583507760840" duration="84000" />
+      <workItem from="1583540303073" duration="61000" />
+      <workItem from="1583541186122" duration="1504000" />
+      <workItem from="1583543015944" duration="125000" />
+      <workItem from="1583543162902" duration="1207000" />
+      <workItem from="1583572614717" duration="24520000" />
+      <workItem from="1583611772520" duration="1276000" />
+      <workItem from="1583613072160" duration="7684000" />
+      <workItem from="1583620855619" duration="1737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="340" key="#Project_Structure" timestamp="1583453974651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="209" y="340" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1583453974651" />
+    <state x="175" y="339" key="#SQL_Dialects" timestamp="1583610197647">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="175" y="339" key="#SQL_Dialects/0.0.2560.1400@0.0.2560.1400" timestamp="1583610197647" />
+    <state x="168" y="239" width="816" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583616278372">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="168" y="239" width="816" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583616278372" />
+    <state x="385" y="391" key="#com.intellij.ide.util.MemberChooser" timestamp="1583616704347">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="385" y="391" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1583616704347" />
+    <state x="302" y="777" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583575588584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="302" y="777" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583575588584" />
+    <state x="292" y="470" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583580224059">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="292" y="470" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583580224059" />
+    <state x="355" y="473" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583581809412">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="355" y="473" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583581809412" />
+    <state x="634" y="569" width="440" height="499" key="FileChooserDialogImpl" timestamp="1583622695233">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="634" y="569" width="440" height="499" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1583622695233" />
+    <state width="1362" height="159" key="GridCell.Tab.0.bottom" timestamp="1583622634704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="159" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583622634704" />
+    <state width="1362" height="159" key="GridCell.Tab.0.center" timestamp="1583622634704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="159" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583622634704" />
+    <state width="1362" height="159" key="GridCell.Tab.0.left" timestamp="1583622634703">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="159" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583622634703" />
+    <state width="1362" height="159" key="GridCell.Tab.0.right" timestamp="1583622634704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="159" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583622634704" />
+    <state width="1362" height="159" key="GridCell.Tab.1.bottom" timestamp="1583622634704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="159" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583622634704" />
+    <state width="1362" height="159" key="GridCell.Tab.1.center" timestamp="1583622634704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="159" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583622634704" />
+    <state width="1362" height="159" key="GridCell.Tab.1.left" timestamp="1583622634704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="159" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583622634704" />
+    <state width="1362" height="159" key="GridCell.Tab.1.right" timestamp="1583622634704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="159" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583622634704" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1583542254719">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.2560.1400@0.0.2560.1400" timestamp="1583542254719" />
+    <state x="186" y="385" key="SettingsEditor" timestamp="1583611744052">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="186" y="385" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1583611744052" />
+    <state x="305" y="455" width="549" height="524" key="StructurePopup" timestamp="1583618392100">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="305" y="455" width="549" height="524" key="StructurePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1583618392100" />
+    <state width="546" height="446" key="SwitcherDM" timestamp="1583580053301">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="546" height="446" key="SwitcherDM/0.0.2560.1400@0.0.2560.1400" timestamp="1583580053301" />
+    <state x="397" y="461" key="chooseDestDirectoryDialog" timestamp="1583607336764">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="397" y="461" key="chooseDestDirectoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583607336764" />
+    <state x="452" y="566" width="336" height="230" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1583605356814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="452" y="566" width="336" height="230" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2560.1400@0.0.2560.1400" timestamp="1583605356814" />
+    <state x="273" y="329" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1583578556871">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="273" y="329" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583578556871" />
+    <state x="0" y="382" key="new project wizard" timestamp="1583615216766">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="0" y="382" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1583615216766" />
+    <state x="325" y="310" key="refactoring.ChangeSignatureDialog" timestamp="1583610343134">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="325" y="310" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583610343134" />
+    <state x="222" y="314" width="672" height="677" key="run.anything.popup" timestamp="1583622445160">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="222" y="314" width="672" height="677" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1583622445160" />
+    <state x="420" y="453" width="672" height="678" key="search.everywhere.popup" timestamp="1583612153578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="420" y="453" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1583612153578" />
+  </component>
+</project>
